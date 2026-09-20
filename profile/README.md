@@ -21,7 +21,7 @@ Selected R22E tools and extensions are developed in the open. We believe in prov
 ## Products
 | Product | Description |
 | ------- | ----------- |
-| [Synology Download Station by R22E](https://github.com/R22E-studio/synology-download-station) | Fast, lightweight, open-source browser client for Synology Download Station. |
+| [Synology Download Station by R22E](https://github.com/r22ehq/Synology-Download-Station-by-R22E) | Fast, lightweight, open-source browser client for Synology Download Station. |
 
 <br />
 
