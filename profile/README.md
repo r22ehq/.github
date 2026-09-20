@@ -3,7 +3,6 @@
   We build products people love to use.
 -->
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/R22E-studio/.github/main/assets/banner.png" alt="R22E Studio Banner" width="100%" /> -->
   <h1>R22E Studio</h1>
 
   <br />
